@@ -1,0 +1,27 @@
+### HOSTS FILES
+#https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0
+#https://adaway.org/hosts.txt
+http://winhelp2002.mvps.org/hosts.txt
+http://someonewhocares.org/hosts/zero/hosts
+#https://www.malwaredomainlist.com/hostslist/hosts.txt
+#https://raw.githubusercontent.com/StevenBlack/hosts/master/data/SpotifyAds/hosts
+#https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
+#https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts
+http://sysctl.org/cameleon/hosts
+#https://hosts-file.net/ad_servers.txt
+#https://raw.githubusercontent.com/nomadturk/vpn-adblock/9a5c01eb1b3354388e8f4dd8450f27638b632a64/hosts-sources/Turkish/hosts
+#https://hostsfile.mine.nu/hosts0.txt
+#https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+#https://raw.githubusercontent.com/vavavr00m/dephormation/0406637355b328086145871dfe67898d27425ecd/host.txt
+http://netcologne.dl.sourceforge.net/project/adzhosts/0.0.0.0/HOSTS.txt
+
+
+### JUST DOMAINS
+http://dns-bh.sagadc.org/dynamic_dns.txt
+http://mirror1.malwaredomains.com/files/justdomains
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+
+
+### ADBLOCK FILTERS
+https://github.com/AdguardTeam/AdguardFilters
